@@ -53,7 +53,7 @@ const TodoApp = styled(({className}) => {
     return ( 
         <div className={className}>
             <div className="create-item">
-                <h1>Todo Manager</h1>
+                <h1>Realm Manager</h1>
                 <div className="add-todo">
                     <input
                     type="text"
