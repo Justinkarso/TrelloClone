@@ -1,7 +1,6 @@
 import React from 'react'
 
 const Items = ({data, value, handleDelete}) => {
-
     return (  
         <div>
             {data[value].items.map((item,i) => {
